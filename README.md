@@ -3,6 +3,7 @@ A fictional Tea Shop website featuring just the home page of the whole website. 
 
 ## Table of contents
 * [General info](#general-info)
+* [Screenshots](#screenshots)
 * [Technologies](#technologies)
 * [Preview](#preview)
 * [Status](#status)
@@ -14,13 +15,18 @@ The purpose of this project is to practice all the concepts from HTML and CSS th
 
 The project will initially not contain any javascript, but can be added later if considered necesary.
 
+## Screenshots
+![Mission](./webpage-images/Mission.jpg)
+![Featured-Tea](./webpage-images/Featured-Tea.jpg)
+![Locations](./webpage-images/Locations.jpg)
+
 ## Technologies
 * HTML 5
 * CSS 3
 * Git- version 2.30.0
 
 ## Preview
-Follow this [link](http://didash20.github.io/Tea-Shop) to preview the project
+Follow this [link](http://didash20.github.io/Tea-Shop/) to view the final project
 
 ## Status
 Project is: _Finished_
