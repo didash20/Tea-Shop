@@ -23,7 +23,7 @@ The project will initially not contain any javascript, but can be added later if
 Follow this [link](http://didash20.github.io/Tea-Shop) to preview the project
 
 ## Status
-Project is: _In progress_
+Project is: _Finished_
 
 ## Sources
 This app is inspired by the _Tea Shop_ project from the _Full-Stack Engineer Career Path_ of [Codecademy](https://www.codecademy.com)
